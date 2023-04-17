@@ -27,7 +27,7 @@ header{
 }
 nav{
     float: right;
-    padding: 10px 10%   ;
+    padding: 10px 8% 10px 10%   ;
     text-decoration: none;
     
     
@@ -52,7 +52,7 @@ a:active{
 }
 #logo{
     float: left;
-    padding-left: 10%;
+    padding-left: 8%;
     
 }
 /*Area de configuracao do conteudo principal*/
